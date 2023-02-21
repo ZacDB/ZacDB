@@ -1,4 +1,8 @@
-### Hi there 👋
+## Welcome
+
+#### If for some reason you're interested in learning about me, then you've come to the right place!
+#### I'm very new to Github, and quite new to the world of programming in general, but I haven't been scared off yet, so hopefully that's a good sign.
+#### I first got into coding with the intention of making mods for some of my favorite video games, most specifically Terraria.
 
 <!--
 **ZacDB/ZacDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
